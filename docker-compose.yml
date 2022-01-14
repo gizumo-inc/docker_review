@@ -5,7 +5,7 @@ services:
       context: ./php-apache
       dockerfile: Dockerfile
     ports:
-      - 8080:8
+      - 8080:80
     volumes:
       - type: bind
         source: "./php-apache/000-default.conf"
