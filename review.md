@@ -79,11 +79,12 @@
 ---
 ### ドメインとは何か説明してください。
 - ドメインとは、IPアドレスをドメイン名に変換してインターネット上の住所を表している。
+- 'https://www.exeple.co.jp'の'exeple.co.jp'をドメイン名という。
 
 
 ### ホスト名とは何か説明してください。
 - ホスト名とはネットワーク上のコンピュータを特定する文字列のこと。
-- 'https://www.exeple.co.jp/review/index.html'というURLの'www'がホスト（サーバの名前）で'exeple.co.jp'がドメイン名で'www.exeple.co.jp'がホスト名となります。
+- 'https://www.exeple.co.jp'の'www'がホスト名という。
 
 
 ### ポートとは何か説明してください。
